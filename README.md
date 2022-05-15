@@ -1,2 +1,4 @@
-# Detection-Of-Glaucoma-Using-Fundus-Images-Of-Retina
-Presented a computational tool for automatic glaucoma detection. Developed and reported improvements for disc segmentation, and a Deep Learning – Neural Network Box method to classify the disease. Details of publication: DRSR JOURNAL - International Publication UGC CARE Group 1 Journal ISSN : 2347-7180 Issued on : 16 July 2020 Volume.10 Issue. 07
+# Knowledge Grab
+This repository manages the semester-long project for ENPM613. 
+
+Knowledge Grab is a learning management website where users can learn assorted topics in Computer Science and Software Development. Some courses are certified by major tech companies as being sufficient for hiring purposes. If a user has completed a certain course, they know enough of that technology to meet company standards. 
